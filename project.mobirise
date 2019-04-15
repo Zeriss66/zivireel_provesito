@@ -191,7 +191,7 @@
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-1450037649614-fd8503521870-1-1019x709.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -229,10 +229,10 @@
             "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/42943158-1370224616470057-4846501746039586816-o-2000x944.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f8f8f6",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -253,6 +253,9 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "46px"
+            },
+            ".mbr-section-title B": {
+              "color": "#000000"
             }
           }
         },

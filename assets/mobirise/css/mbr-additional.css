@@ -45,6 +45,9 @@
 #content5-12 .mbr-section-title {
   font-size: 46px;
 }
+#content5-12 .mbr-section-title B {
+  color: #000000;
+}
 #content5-y .mbr-section-title {
   text-align: right;
   font-size: 46px;
