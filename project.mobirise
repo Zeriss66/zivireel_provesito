@@ -159,7 +159,7 @@
               "size": 0
             }
           },
-          "title": "St. Patrick al rifugio Maranza",
+          "title": "<b>St. Patrick al rifugio Maranza</b>",
           "text": "<p>Domenica 17 Marzo ci troverete al Rifugio Maranza dove potremo ballare tutti assieme!</p>",
           "alias": "purity/components",
           "_tags": [
@@ -200,7 +200,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "Chi Siamo",
+          "title": "<b>Chi Siamo</b>",
           "text": "Il Gruppo Culturale Zivignago 87 è una associazione senza fini di lucro che sviluppa la propria attività nell’ambito culturale, teatrale e dello spettacolo.\n<br>\n<br>Nato verso la fine degli anni ottanta dalla trasformazione della  vecchia filodrammatica locale che ha operato a partire dal millenovecentoventi circa e costituitosi formalmente come associazione culturale, il Gruppo ha all’attivo la rappresentazione di una decina di commedie in dialetto locale e l’organizzazione di diverse rassegne teatrali e musicali presso il teatro di Zivignago di Pergine che, con grande impegno e determinazione, ha contribuito a ristrutturare (dal 1995 al 1998).\n<br>\n<br>Negli ultimi anni le attività del gruppo si sono ramificate e includono ora anche corsi e spettacoli di danze irlandesi e Magiaceltica, festival di danze, musica e cultura celtica..",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Filodrammatica</a>",
           "alias": "purity/components",
@@ -241,7 +241,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "Zivireel",
+          "title": "<b>Zivireel</b>",
           "caption": "<p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione. È sopravvissuto non solo a più di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci sostanzialmente inalterato. Fu reso popolare, negli anni ’60, con la diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come Aldus PageMaker, che includeva versioni del Lorem Ipsum.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -274,7 +274,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "Dove Siamo",
+          "title": "<b>Dove Siamo</b>",
           "caption": "<p>Il Gruppo Culturale ha sede in via Molini 12, Frazione Zivignago, Pergine Valsugana (TN).\n</p><p>La rassegna teatrale e i corsi di danza si tengono nel Teatro di Zivignago, in via dei Molini 12 a Zivignago, frazione di Pergine Valsugana (TN)</p>",
           "alias": "purity/components",
           "_tags": [
@@ -306,7 +306,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Contatti",
+          "title": "<b>Contatti</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contattaci</a>",
           "form": {
             "action": "mottergabriele@gmail.com",
