@@ -1,9 +1,9 @@
 #header1-0 H1 {
   color: #000000;
-  font-size: 46px;
+  font-size: 48px;
 }
 #header1-0 .btn {
-  font-size: 10px;
+  font-size: 15px;
 }
 #dropdown-menu-2 .hide-buttons [data-button] {
   display: none !important;
@@ -27,36 +27,30 @@
 }
 #msg-box4-4 .mbr-section-title {
   text-align: center;
-  font-size: 30px;
+  font-size: 32px;
 }
 #msg-box4-4 .lead P {
   text-align: center;
-  font-size: 12px;
-}
-#msg-box4-4 .btn {
-  font-size: 10px;
 }
 #header2-z P {
   text-align: right;
-  font-size: 12px;
 }
 #header2-z H1 {
   text-align: right;
-  font-size: 30px;
+  font-size: 46px;
 }
-#content5-11 .mbr-section-title {
-  font-size: 30px;
+#header2-z .btn {
+  font-size: 15px;
 }
-#content5-11 P {
-  font-size: 12px;
-}
-#content5-y P {
-  text-align: right;
-  font-size: 12px;
+#content5-12 .mbr-section-title {
+  font-size: 46px;
 }
 #content5-y .mbr-section-title {
   text-align: right;
-  font-size: 30px;
+  font-size: 46px;
+}
+#content5-y P {
+  text-align: right;
 }
 #footer1-r P {
   color: #000000;
