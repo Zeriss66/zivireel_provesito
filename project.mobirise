@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "4.9.7"
   },
   "pages": {
@@ -291,6 +291,22 @@
               "text-align": "right"
             }
           }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Via al Bersaglio, 38057 Pergine Valsugana TN\n\n",
+              "placeId": "ChIJ3_VjVaOdeEcRuhXMnFF_Dio",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-13"
         },
         {
           "_params": {
