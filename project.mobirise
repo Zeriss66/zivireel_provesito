@@ -1,0 +1,987 @@
+{
+  "settings": {
+    "name": "Site-04-15_1810",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.7",
+    "siteFonts": [],
+    "uniqCompNum": 38,
+    "versionPublish": "4.9.7"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mads-schmidt-rasmussen-567063-unsplash-2000x2666.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Gruppo Culturale Zivignago 87",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box4-4\" data-toolbar=\"-mbrBtnMove\">Eventi</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#content5-11\" data-toolbar=\"-mbrBtnMove\">Zivireel&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Filodrammatica</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Corsi di Danza Irlandese</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-z\">Chi Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-y\">Dove Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-o\">Contatti</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gruppo Culturale Zivignago 87</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-2"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mads-schmidt-rasmussen-567063-unsplash-2000x2666.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/maranza-1-1146x1617.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "St. Patrick al rifugio Maranza",
+          "text": "<p>Domenica 17 Marzo ci troverete al Rifugio Maranza dove potremo ballare tutti assieme!</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Altri eventi</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1450037649614-fd8503521870-1-1019x709.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Chi Siamo",
+          "text": "Il Gruppo Culturale Zivignago 87 è una associazione senza fini di lucro che sviluppa la propria attività nell’ambito culturale, teatrale e dello spettacolo.\n<br>\n<br>Nato verso la fine degli anni ottanta dalla trasformazione della  vecchia filodrammatica locale che ha operato a partire dal millenovecentoventi circa e costituitosi formalmente come associazione culturale, il Gruppo ha all’attivo la rappresentazione di una decina di commedie in dialetto locale e l’organizzazione di diverse rassegne teatrali e musicali presso il teatro di Zivignago di Pergine che, con grande impegno e determinazione, ha contribuito a ristrutturare (dal 1995 al 1998).\n<br>\n<br>Negli ultimi anni le attività del gruppo si sono ramificate e includono ora anche corsi e spettacoli di danze irlandesi e Magiaceltica, festival di danze, musica e cultura celtica..",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Filodrammatica</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-z",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Zivireel",
+          "caption": "<p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione. È sopravvissuto non solo a più di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci sostanzialmente inalterato. Fu reso popolare, negli anni ’60, con la diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come Aldus PageMaker, che includeva versioni del Lorem Ipsum.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-11"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mads-schmidt-rasmussen-567063-unsplash-2000x2666.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Dove Siamo",
+          "caption": "<p>Il Gruppo Culturale ha sede in via Molini 12, Frazione Zivignago, Pergine Valsugana (TN).\n</p><p>La rassegna teatrale e i corsi di danza si tengono nel Teatro di Zivignago, in via dei Molini 12 a Zivignago, frazione di Pergine Valsugana (TN)</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-y",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contatti",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contattaci</a>",
+          "form": {
+            "action": "mottergabriele@gmail.com",
+            "alerts": {
+              "success": "Grazie per averci contattato!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2015 Company Name. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Filodrammatica",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-z\">Chi Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-y\">Dove Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-o\">Contatti</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gruppo Culturale Zivignago 87</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-6"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mads-schmidt-rasmussen-567063-unsplash-2000x2666.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "VALAMOR",
+          "caption": "<p>“Valamor” è un eclettico spettacolo che alla recitazione abbina canzoni originali cantate dal Coro Castel Pergine e danze irlandesi coreografate e realizzate dal gruppo Zivireel.\n</p><p>\n</p><p>Si apre il sipario e ci si trova già immersi in un’atmosfera fiabesca: due amici, Geoffrfeye e Ian, durante un’escursione perdono il sentiero e si imbattono in un particolare villaggio abitato da uno stravagante popolo il quale, forse un po’ troppo diffidente nei confronti degli stranieri, sembra nascondere un segreto. La vicenda viene movimentata dalle peripezie dei protagonisti che si alterano ai numerosi festeggiamenti che a Valamor si susseguono senza sosta.\n</p><p>\n</p><p>Lo spettacolo narra di due differenti mondi venuti a contatto tra loro che imprano non senza equivoci a conoscersi e ad apprezzarsi. Nonostate lo stile semplice e la leggerezza che l’alternanza e la commistione di recitazione, danza e canto confrisce alla rappresentazione, vengono esposte anche tematiche importanti seppur quotidiane, come l’amore, rappresentato con toni lievi e scherzosi, e l’amicizia, vero motore di tutta la storia.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<div>PERSONAGGI E INTERPRETI</div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Ian&nbsp;-</b> Adolfo Villafiorita\n</p><p>\n<span style=\"font-size: 1.25rem;\"><b>Geoffrey -</b>  Sandro Beber&nbsp;</span></p><p>\n<span style=\"font-size: 1.25rem;\"><b>Agata - </b>&nbsp;Loreta Fruet&nbsp;</span><span style=\"font-size: 1.25rem;\"></span></p><p><b>Kayla -</b> &nbsp;Pierino Caresia\n</p><p><b>Fiona -</b> &nbsp;Donatella Beber\n<span style=\"font-size: 1.25rem;\"></span></p><p><b>Teresa -</b> Adriana Tomaselli\n</p><p><b>Mandy -</b> &nbsp;Veronica Convertino\n</p><p><b>Brigit - </b>Cristina Iori\n</p><p><b>Giovani dell villaggio  Coro “Castel Pergine” e Gruppo di danza “Zivireel”\n</b></p><p><b>Rammentatrici</b>&nbsp;- Irene Moser e Sara Valcanover\n</p><p><b>Luci e audio&nbsp;-</b> Ezio Fruet e Riccardo Fruet\n</p><p><b>Regia</b>&nbsp;- Loreta Fruet</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Chi Siamo",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-z\">Chi Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-y\">Dove Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-o\">Contatti</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gruppo Culturale Zivignago 87</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-9"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1450037649614-fd8503521870-1-1019x709.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Chi Siamo",
+          "text": "Il Gruppo Culturale Zivignago 87 è una associazione senza fini di lucro che sviluppa la propria attività nell’ambito culturale, teatrale e dello spettacolo.\n<br>\n<br>Nato verso la fine degli anni ottanta dalla trasformazione della  vecchia filodrammatica locale che ha operato a partire dal millenovecentoventi circa e costituitosi formalmente come associazione culturale, il Gruppo ha all’attivo la rappresentazione di una decina di commedie in dialetto locale e l’organizzazione di diverse rassegne teatrali e musicali presso il teatro di Zivignago di Pergine che, con grande impegno e determinazione, ha contribuito a ristrutturare (dal 1995 al 1998).\n<br>\n<br>Negli ultimi anni le attività del gruppo si sono ramificate e includono ora anche corsi e spettacoli di danze irlandesi e Magiaceltica, festival di danze, musica e cultura celtica..",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Filodrammatica</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-a"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Corso",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-z\">Chi Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-y\">Dove Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-o\">Contatti</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gruppo Culturale Zivignago 87</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mads-schmidt-rasmussen-567063-unsplash-2000x2666.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Corsi",
+          "caption": "<p>Il gruppo di danza Zivireel organizza corsi base di danze irlandesi per chi ha voglia di provare e magari in futuro ballare con noi.\r<br><span style=\"font-size: 1.25rem;\">Non siamo professionisti ma abbiamo molta voglia di trasmettere tutto quello che conosciamo.&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Anche quest’anno il corso base 2017 si terrà a Trento il lunedì sera dalle 20.00 alle 21.30 a partire dal 26 settembre, presso l’Oratorio di S. Antonio.&nbsp;<br></span></p><p><span style=\"font-size: 1.25rem;\"><br></span><span style=\"font-size: 1.25rem;\">Il corso è di 11 lezioni (la prima di prova è gratuita).&nbsp;</span></p><p>Abbigliamento consigliato: maglietta di cotone, pantaloni comodi e scarpe tipo tennis o comunque leggere (più le scarpe pesano e più si fatica).\r</p><p>Per iscrizioni ed ulteriori informazioni telefonare al 349 4331366 oppure scrivere un’email a zivireel@zivignago87.it</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-f"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": false,
+            "showBullets": false,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/zivireel-volantino-1316x1859.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "center",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-h"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Eventi",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-z\">Chi Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-y\">Dove Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-o\">Contatti</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gruppo Culturale Zivignago 87</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-i"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/maranza-1-1146x1617.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "St. Patrick",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/concerto-30-settembre-2000x2828.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Concerto Ristorante Valcanover",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-j",
+          "_styles": {
+            "H2": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Dove siamo",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-z\">Chi Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-y\">Dove Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-o\">Contatti</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gruppo Culturale Zivignago 87</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mads-schmidt-rasmussen-567063-unsplash-2000x2666.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Dove Siamo",
+          "caption": "<p>Il Gruppo Culturale ha sede in via Molini 12, Frazione Zivignago, Pergine Valsugana (TN).\n</p><p>La rassegna teatrale e i corsi di danza si tengono nel Teatro di Zivignago, in via dei Molini 12 a Zivignago, frazione di Pergine Valsugana (TN)</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Via al Bersaglio, 38057 Pergine Valsugana TN\n\n",
+              "placeId": "ChIJ3_VjVaOdeEcRuhXMnFF_Dio",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-l"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Zivireel",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-z\">Chi Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-y\">Dove Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-o\">Contatti</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gruppo Culturale Zivignago 87</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-s"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Zivireel",
+          "text": "Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione. È sopravvissuto non solo a più di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci sostanzialmente inalterato. Fu reso popolare, negli anni ’60, con la diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come Aldus PageMaker, che includeva versioni del Lorem Ipsum.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Corsi di Ballo</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-w"
+        }
+      ]
+    }
+  }
+}
