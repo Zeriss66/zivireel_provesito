@@ -12,7 +12,8 @@
     "versionFirst": "4.9.7",
     "siteFonts": [],
     "uniqCompNum": 40,
-    "versionPublish": "4.9.7"
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -95,7 +96,7 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Chi Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-y\">Dove Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-o\">Contatti</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-z\">Chi Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-y\">Dove Siamo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-o\">Contatti</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -403,10 +404,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -535,10 +536,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -624,10 +625,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -738,10 +739,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -840,10 +841,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -942,10 +943,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
               "color": "#000000"
